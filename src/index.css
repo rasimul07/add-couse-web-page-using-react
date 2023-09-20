@@ -5,9 +5,22 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgba(128, 128, 128, 0.219);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+#signUp-Outer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+#signUp{
+  padding: 20px;
+  height: 200px;
+  width: 300px;
 }
