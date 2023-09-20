@@ -39,5 +39,17 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-##screen shots project view
+### `start backend in terminal`
+cd backend
+node index.js
+
+
+### `screen shots login page`
 <img width="960" alt="Screenshot 2023-09-20 211910" src="https://github.com/rasimul07/add-couse-web-page-using-react/assets/92817106/bf197c82-4880-4caa-a402-e95cffbd26bf">
+
+### `screen shots add course page`
+<img width="960" alt="Screenshot 2023-09-20 222342" src="https://github.com/rasimul07/add-couse-web-page-using-react/assets/92817106/d660b9e9-97b6-4788-97f3-c8445c77d066">
+
+### `screen shots courses page`
+<img width="960" alt="Screenshot 2023-09-20 222901" src="https://github.com/rasimul07/add-couse-web-page-using-react/assets/92817106/2e731195-d488-4fd8-9241-507be77497f1">
+
